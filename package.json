@@ -1,0 +1,30 @@
+{
+  "name": "mongoose-seed",
+  "version": "1.0.0",
+  "description": "A simple nodejs module to seed a mongooseJs managed mongodb database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MindFreeze/mongoose-seed.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongoose",
+    "node",
+    "seed",
+    "db"
+  ],
+  "author": "Petar Petrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MindFreeze/mongoose-seed/issues"
+  },
+  "homepage": "https://github.com/MindFreeze/mongoose-seed#readme",
+  "dependencies": {
+    "async": "^1.4.2",
+    "lodash": "^3.10.1"
+  }
+}
